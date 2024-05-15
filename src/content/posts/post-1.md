@@ -1,5 +1,5 @@
 ---
-title: "How to make toys from old Olarpaper Meow"
+title: "How to make toys from old Olarpaper Meow Cow"
 description: "meta description"
 date: 2022-04-01T05:00:00Z
 image: "/images/posts/01.jpg"
