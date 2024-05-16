@@ -4,7 +4,7 @@ description: "meta description"
 date: 2024-04-01T05:00:00Z
 image: "/images/posts/08.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
+authors: ["banditecho"]
 tags: ["diy", "toy"]
 draft: false
 ---
@@ -13,7 +13,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+## Full Tacos, Full Hearts
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
