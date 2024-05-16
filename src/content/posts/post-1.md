@@ -2,7 +2,7 @@
 title: "How to make toys from old Olarpaper Meow Cow"
 description: "meta description"
 date: 2022-04-01T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/08.jpg"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
