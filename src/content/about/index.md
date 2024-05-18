@@ -1,5 +1,5 @@
 ---
-title: "Hello. BanditEcho, here."
+title: "Hello! BanditEcho, here."
 meta_title: "About"
 image: "/images/author.png"
 draft: false
@@ -18,6 +18,6 @@ what_i_do:
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus. Blah Blah Devs is an odd show, I don't know if I'm going to make it through 8 episodes.
+The ultimate food adventurer with hilariously low standards. Known among friends to never turn away an unfamiliar dish, BanditEcho celebrates what elevates food to greatness and, curiously, what diminishes its appeal. Guilty pleasures include sickeningly sweet general tso's chicken, mayonnaise sandwiches, and steamed rice + potato chips.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Motto: "If it's edible, it's enjoyable."
