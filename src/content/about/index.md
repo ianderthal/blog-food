@@ -14,7 +14,7 @@ what_i_do:
     description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
   
   - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+    description: "Let's be honest, I'm just trying to get my daily commit in."
 
 ---
 
