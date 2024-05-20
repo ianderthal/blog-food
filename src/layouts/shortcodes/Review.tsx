@@ -13,10 +13,14 @@ const Review = ({
 }) => {
   return (
     <>
+      <figure>
+        <p>Score: {score}</p>
+      </figure>
       <p>Tagline: "{tagline}"</p>
       <p>Description: {description}</p>
-      <p>Reviewer: {reviewer}</p>
-      <p>Score: {score}</p>
+      <figcaption>
+        <p>Reviewer: {reviewer}</p>
+      </figcaption>
     </>
   );
 };
