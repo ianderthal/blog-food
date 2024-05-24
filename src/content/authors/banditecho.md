@@ -1,10 +1,8 @@
 ---
 title: BanditEcho
-image: /images/authors/mark-dinn.jpg
+image: /images/authors/banditecho.jpg
 description: this is meta description
 social:
-  facebook: https://www.facebook.com/
-  twitter: https://www.twitter.com/
   instagram: https://www.instagram.com/
 ---
 
