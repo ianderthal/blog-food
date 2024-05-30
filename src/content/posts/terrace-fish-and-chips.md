@@ -1,11 +1,11 @@
 ---
-title: Why a balloon is a flexible bag
+title: Hey Batter Batter Swing Batter
 description: "meta description"
-date: 2022-04-02T05:00:00Z
+date: 2024-05-26T05:00:00Z
 image: "/images/posts/02.jpg"
 categories: ["development"]
-authors: ["John Doe"]
-tags: ["diy", "toy"]
+authors: ["BanditEcho"]
+tags: ["Fried"]
 draft: false
 ---
 
