@@ -2,7 +2,7 @@
 title: The Whole Hole
 description: "Leo's Bagels, delish!"
 date: 2024-05-27T06:00:00+00:00
-image: "/images/posts/03.jpg"
+image: "/images/posts/leos-bagel.jpeg"
 categories: ["Food"]
 authors: ["BanditEcho"]
 tags: ["Bagel"]
