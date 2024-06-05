@@ -1,11 +1,11 @@
 ---
-title: "How to make toys from old Olarpaper Meow Cow"
+title: Hey Batter Batter Swing Batter
 description: "meta description"
-date: 2024-04-01T05:00:00Z
-image: "/images/posts/08.jpg"
-categories: ["art"]
-authors: ["banditecho"]
-tags: ["diy", "toy"]
+date: 2024-05-26T05:00:00Z
+image: "/images/posts/02.jpg"
+categories: ["development"]
+authors: ["BanditEcho"]
+tags: ["Fried"]
 draft: false
 ---
 
@@ -13,7 +13,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Full Tacos, Full Hearts
+## Creative Design
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
