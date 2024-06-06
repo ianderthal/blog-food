@@ -15,9 +15,9 @@ const Review = ({
     <>
     <section className="m-auto flex items-center gap-4 rounded bg-slate-50 p-4 shadow-xl shadow-slate-500">
       <div className="flex flex-row">
-        <div className="flex flex-col gap-0">
-          <figure className="h-12 w-12 items-center justify-center rounded-full bg-green-300">
-            <figcaption>{score}</figcaption>
+        <div className="flex flex-col gap-0 basis-1/5 justify-start">
+          <figure className="h-12 w-12 flex items-center justify-center rounded-full bg-red-500">
+            <figcaption className="text-white mt-0 text-2xl">{score}</figcaption>
           </figure>
         </div>
         <div className="flex flex-col gap-0">
