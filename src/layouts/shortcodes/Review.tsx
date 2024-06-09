@@ -13,11 +13,9 @@ const Review = ({
 }) => {
   return (
     <>
-    <h3>Our Reviews</h3>
-    <hr/>
-    <section className="m-auto flex items-center gap-4 rounded bg-slate-50 p-6 shadow-lg shadow-slate-500">
+    <section className="m-auto mb-8 flex items-center gap-4 rounded bg-slate-50 p-6 shadow-lg shadow-slate-500">
       <div className="flex flex-col md:flex-row md:gap-x-6">
-        <div className="flex flex-col gap-0 basis-1/4 justify-start items-center">
+        <div className="flex flex-col flex-none gap-0 basis-1/5 justify-start items-center">
           <figure className="h-20 w-20 flex items-center justify-center rounded-full bg-emerald-500">
             <figcaption className="text-white mt-0 text-3xl">{score}</figcaption>
           </figure>
