@@ -169,10 +169,10 @@ const { title, meta_title, description, image, noindex, canonical } =
     />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
-  <body>
+  <body class="min-h-screen flex flex-col">
     <TwSizeIndicator />
     <Header />
-    <main id="main-content" class="min-h-[60vh]">
+    <main id="main-content" class="min-h-[60vh] flex-1">
       <slot />
     </main>
     <Footer />
