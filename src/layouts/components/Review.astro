@@ -1,18 +1,18 @@
 ---
-import React from "react";
+const { tagline, description, reviewer, score } = Astro.props;
 /*
-const Review = ({
-    tagline,
-    description,
-    reviewer,
-    score,
+const {
+    tagline
+    //description,
+    //reviewer,
+    //score,
 }: {
-    tagline: string;
-    description: string;
-    reviewer: string;
-    score: string;
-})
-*/
+    //tagline: string;
+    //description: string;
+    //reviewer: string;
+    //score: string;
+} = Review;
+ */
 ---
 
 
@@ -20,14 +20,14 @@ const Review = ({
   <div class="flex flex-col md:flex-row md:gap-x-6">
     <div class="flex flex-col flex-none gap-0 basis-1/6 justify-start items-center">
       <figure class="h-20 w-20 flex items-center justify-center rounded-full bg-emerald-500">
-        <figcaption class="text-white mt-0 text-3xl">7.0</figcaption>
+        <figcaption class="text-white mt-0 text-3xl">{score}</figcaption>
       </figure>
     </div>
     <div class="flex flex-col gap-0">
-      <div class="text-2xl font-extrabold italic">"tagline"</div>
-      <p class="mt-2 mb-2 leading-5">describe</p>
+      <div class="text-2xl font-extrabold italic">{tagline}</div>
+      <p class="mt-2 mb-2 leading-5">{description}</p>
       <figcaption>
-        <div class="font-black uppercase">BanditEcho</div>
+        <div class="font-black uppercase">{reviewer}</div>
         <div class="text-sm font-medium">Long live the king</div>
       </figcaption>
     </div>
