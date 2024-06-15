@@ -1,4 +1,11 @@
 ---
+export interface Props {
+  tagline: string,
+  description: string,
+  reviewer: string,
+  score: string;
+}
+
 const { tagline, description, reviewer, score } = Astro.props;
 /*
 const {
