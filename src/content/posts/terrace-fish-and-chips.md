@@ -2,7 +2,7 @@
 title: Hey Batter Batter Swing Batter
 description: "meta description"
 date: 2024-05-26T05:00:00Z
-image: "/images/posts/02.jpg"
+image: "/images/posts/daebak.jpg"
 categories: ["development"]
 authors: ["BanditEcho"]
 tags: ["Fried"]
