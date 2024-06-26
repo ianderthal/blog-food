@@ -6,7 +6,6 @@ import dateFormat from "@/lib/utils/dateFormat";
 import { humanize, slugify } from "@/lib/utils/textConverter";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 const authors = await getSinglePage("authors");
-const { summary_length } = config.settings;
 const { className, posts, fluid } = Astro.props;
 ---
 
@@ -87,6 +86,7 @@ const { className, posts, fluid } = Astro.props;
             {post.data.title}
           </a>
         </h3>
+        <p>{post.data.description}</p>
       </div>
     ))
   }
