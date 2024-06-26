@@ -1,6 +1,6 @@
 ---
 title: Hey Batter Batter Swing Batter
-description: "meta description"
+description: "Oysters, Clams & Cockles!"
 date: 2024-05-26T05:00:00Z
 image: "/images/posts/daebak.jpg"
 categories: ["development"]
