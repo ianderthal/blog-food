@@ -5,7 +5,7 @@ export interface Props {
   reviewer: string;
   score: string;
 }
-
+import { Image } from "astro:assets";
 const { tagline, description, reviewer, score } = Astro.props;
 ---
 
@@ -25,14 +25,17 @@ const { tagline, description, reviewer, score } = Astro.props;
     <div class="flex flex-col gap-0">
       <div class="text-2xl font-extrabold">"{tagline}"</div>
       <p class="mt-2 mb-2 leading-5">{description}</p>
-      <figcaption class="flex gap-x-3">
-        <div class="flex-col">
-          <div
-            class="h-10 w-10 rounded-full border-solid border-2 border-gray-300 border-black"
-          >
-          </div>
+      <figcaption class="flex flex-row gap-x-3">
+        <div>
+          <Image
+            src="/images/authors/banditecho.jpg"
+            alt="meow"
+            height={40}
+            width={40}
+            class="mx-auto mt-0 rounded-full"
+          />
         </div>
-        <div class="flex-col">
+        <div>
           <div class="font-black normal-case">{reviewer}</div>
           <div class="text-sm font-medium">Are you going to finish that?</div>
         </div>
