@@ -1,9 +1,9 @@
 ---
 title: Hey Batter Batter Swing Batter
 description: "Oysters, Clams & Cockles!"
-date: 2024-05-26T05:00:00Z
+date: 2024-06-26T05:00:00Z
 image: "/images/posts/daebak.jpg"
-categories: ["development"]
+categories: ["KBBQ"]
 authors: ["BanditEcho"]
 tags: ["Fried"]
 draft: false
